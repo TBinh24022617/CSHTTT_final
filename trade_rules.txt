@@ -1,0 +1,47 @@
+I. KHUNG THỜI GIAN GIAO DỊCH (TRADE TIMELINE)
+Giai đoạn	Quy định chi tiết
+1. Mở cửa (Trade Window)	Thị trường trao đổi cầu thủ giữa các đội được mở tự do ngay từ Tuần 1 của mùa giải.
+2. Đóng cửa (Trade Deadline)	Toàn bộ giao dịch trao đổi giữa các GM sẽ khóa hoàn toàn trước kỳ nghỉ NBA All-Star (theo đồng hồ đếm ngược trên hệ thống Sleeper).
+3. Hậu Deadline	Sau khi đóng cửa Trade, các đội không thể trao đổi cầu thủ cho nhau nhưng vẫn được phép thay đổi nhân sự thông qua thị trường tự do (Free Agency / Waiver Wire) để phục vụ cuộc đua Playoffs.
+II. QUY TẮC QUẢN LÝ NHÂN SỰ & THỊ TRƯỜNG TỰ DO (WAIVER / FA)
+1. Cơ chế Giải phóng & Bổ sung cầu thủ (Drop / Add)
+
+Mỗi đội bóng có giới hạn quân số cố định (15 cầu thủ). Để ký hợp đồng với một cầu thủ từ danh sách Free Agent, GM bắt buộc phải cắt hợp đồng (Waive/Drop) một cầu thủ trong đội hình hiện tại để lấy chỗ trống.
+
+Cầu thủ bị cắt sẽ rơi vào trạng thái chờ (Waiver Wire) trên hệ thống trước khi trở thành cầu thủ tự do hoàn toàn (Free Agent) để các đội khác có thể nhảy vào giành chữ ký.
+
+2. Quy tắc "Cấm Tái Sở Hữu" trong cùng mùa giải (The Ilgauskas Rule)
+
+Nhằm triệt tiêu hoàn toàn hành vi "cho mượn người" ngắn hạn hoặc lách luật xoay tua lịch thi đấu:
+
+Đối với cầu thủ bị Trade: Một khi bạn đã đem cầu thủ X đi trao đổi với đội khác, bạn không được phép nhận lại cầu thủ X thông qua bất kỳ giao dịch Trade trực tiếp nào trong suốt phần còn lại của mùa giải.
+
+Đối với cầu thủ bị Waive: Nếu bạn chủ động cắt (Drop) cầu thủ Y, bạn tuyệt đối không được phép dùng quyền ưu tiên (Waiver Claim) hoặc nhặt lại cầu thủ Y từ danh sách tự do trong mùa giải này — trừ khi cầu thủ đó đã được một GM khác nhặt về đội của họ, sử dụng và sau đó lại tiếp tục bị cắt ra ngoài thị trường thêm một lần nữa.
+
+III. ĐẠO ĐỨC GIẢI ĐẤU: CHỐNG "ĐI ĐÊM" & GIAO DỊCH "MỜ ÁM" (ANTI-COLLUSION POLICY)
+Đây là điều khoản tối quan trọng để bảo vệ sự tồn vong và tính hấp dẫn của giải đấu. Văn phòng Commissioner sẽ áp dụng bàn tay sắt với 2 quy định sau:
+
+1. Tuyệt đối cấm "Đi đêm" – Mọi đàm phán phải công khai 100%
+Nghiêm cấm nhắn tin riêng (No Private DMs): Mọi hành vi thương thảo ngầm qua tin nhắn cá nhân, gọi điện riêng hoặc thỏa thuận bên ngoài giữa 2 GM đều bị coi là vi phạm quy chế.
+
+Minh bạch hóa trên Group chung: Toàn bộ quá trình rao bán (Trade Block), hỏi mua, trả giá (Counter-offer) và chốt kèo bắt buộc phải diễn ra công khai trên Group Chat chính thức của giải đấu. Mọi GM khác đều có quyền được biết ai đang nằm trên bàn đàm phán để có thể nhảy vào cạnh tranh công bằng (Bidding War).
+
+2. Cấm tuyệt đối các thương vụ "Mờ ám" – Chênh lệch giá trị phi lý (Lopsided Trades)
+Nguyên tắc tương xứng giá trị: Mọi giao dịch phải phản ánh đúng giá trị thực tế (dựa trên số liệu thống kê, vị trí Draft và điểm Fantasy trung bình) và mang lại lợi ích chiến thuật hợp lý cho cả hai bên.
+
+Định nghĩa giao dịch "Mờ ám": Là các thương vụ một chiều, làm mất cân bằng nghiêm trọng sức mạnh của giải đấu (tạo siêu đội hình bất hợp pháp hoặc cứu vớt một đội khác).
+
+Ví dụ điển hình bị cấm: Đem một siêu sao Top 1 / Vòng 1–2 (cỡ Luka Dončić, Nikola Jokić, Alperen Şengün...) đổi ngang lấy một cầu thủ Top 15 / Vòng cuối hoặc hàng dự bị (cỡ cầu thủ chỉ ghi 20–25 FP/trận), hoặc gộp 2–3 cầu thủ rác ở đáy bảng để đổi lấy 1 siêu sao gánh team.
+
+Quyền Phủ quyết tối cao (Commissioner Veto): Văn phòng Ủy viên và Hội đồng GM có toàn quyền thẩm định mọi lệnh Trade. Bất kỳ giao dịch nào có mùi "bơm máu", "bán độ", hoặc chênh lệch đẳng cấp quá vô lý sẽ bị HỦY BỎ NGAY LẬP TỨC (VETO) mà không cần báo trước.
+
+IV. CHẾ TÀI XỬ PHẠT VI PHẠM
+Tùy theo mức độ vi phạm các quy định tại Mục II và Mục III, Văn phòng Commissioner sẽ áp dụng các khung hình phạt:
+
+Lần 1: Hủy giao dịch (Reverse/Veto), cảnh cáo công khai trước toàn giải.
+
+Lần 2: Khóa quyền giao dịch (Trade Lock) và quyền nhặt cầu thủ tự do (Waiver Lock) của các đội vi phạm trong vòng 2 đến 4 tuần.
+
+Đặc biệt nghiêm trọng (Cố tình phá giải): Tịch thu quyền quản lý đội bóng, trục xuất khỏi giải đấu.
+
+Luật chơi đã rõ ràng, sân đấu đã sáng đèn. Chúc các GM có những màn đấu trí đỉnh cao trên bàn đàm phán và một mùa giải bùng nổ!
